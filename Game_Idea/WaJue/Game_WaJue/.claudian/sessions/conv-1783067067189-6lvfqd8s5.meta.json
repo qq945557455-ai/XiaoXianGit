@@ -1,0 +1,25 @@
+{
+  "id": "conv-1783067067189-6lvfqd8s5",
+  "providerId": "codex",
+  "title": "这里是管理者，我需要有1个项目管理，2个策划，2个美术，2个程序。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783067067189,
+  "updatedAt": 1783911570162,
+  "lastResponseAt": 1783911507674,
+  "sessionId": "019f2714-5ddd-71c2-8f29-654e458d55a2",
+  "providerState": {
+    "threadId": "019f2714-5ddd-71c2-8f29-654e458d55a2",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\03\\rollout-2026-07-03T16-24-34-019f2714-5ddd-71c2-8f29-654e458d55a2.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 47392,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44416,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47392,
+    "percentage": 18,
+    "model": "gpt-5.5"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "conversations": [
+    {
+      "id": "ffdf569c-3f60-48ef-910d-861a9c0b9530",
+      "title": "新对话",
+      "sessionId": "",
+      "messages": [],
+      "createdAt": 1782903290288,
+      "updatedAt": 1782903290288
+    }
+  ],
+  "settings": {
+    "codebuddyPath": "D:\\Agent\\WorkBuddy\\resources\\app.asar.unpacked\\cli\\bin\\codebuddy",
+    "maxConversations": 20,
+    "version": 3
+  }
+}

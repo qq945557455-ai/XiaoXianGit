@@ -1,0 +1,26 @@
+{
+  "id": "conv-1782903242183-erjs08dk0",
+  "providerId": "codex",
+  "title": "E:\\GitHub\\Unity_Pro，这是Unity工程项目，帮我检查是否有mcp或者CLI，如果...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782903242183,
+  "updatedAt": 1782903688620,
+  "lastResponseAt": 1782903658970,
+  "sessionId": "019f1d50-85cd-7f51-b217-3edbecf9d260",
+  "providerState": {
+    "threadId": "019f1d50-85cd-7f51-b217-3edbecf9d260",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\01\\rollout-2026-07-01T18-54-04-019f1d50-85cd-7f51-b217-3edbecf9d260.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "currentNote": "wiki/projects/unity_Ctr.md",
+  "usage": {
+    "inputTokens": 76885,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 76160,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 76885,
+    "percentage": 30,
+    "model": "gpt-5.5"
+  }
+}

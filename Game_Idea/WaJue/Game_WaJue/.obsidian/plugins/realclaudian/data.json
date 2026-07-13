@@ -1,0 +1,42 @@
+{
+  "settingsProvider": "codex",
+  "model": "openai-codex/gpt-5.5",
+  "codexEnabled": true,
+  "codexSafeMode": "workspace-write",
+  "codexCliPath": "C:\\Users\\94555\\nodejs\\codex.cmd",
+  "codexCliPathsByHost": {
+    "xian": "C:\\Users\\94555\\nodejs\\codex.cmd"
+  },
+  "codexReasoningSummary": "detailed",
+  "savedProviderModel": {
+    "codex": "openai-codex/gpt-5.5"
+  },
+  "providerConfigs": {
+    "codex": {
+      "enabled": true,
+      "safeMode": "workspace-write",
+      "cliPath": "C:\\Users\\94555\\nodejs\\codex.cmd",
+      "cliPathsByHost": {
+        "xian": "C:\\Users\\94555\\nodejs\\codex.cmd"
+      },
+      "customModels": "",
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "xian": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    }
+  },
+  "tabManagerState": {
+    "openTabs": [
+      {
+        "draftModel": "gpt-5.5",
+        "tabId": "tab-1783918497135-a2oj290",
+        "conversationId": null
+      }
+    ],
+    "activeTabId": "tab-1783918497135-a2oj290"
+  }
+}

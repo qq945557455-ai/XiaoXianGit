@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783065043614-etx3ublti",
+  "providerId": "codex",
+  "title": "下载并安装TMP",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783065043614,
+  "updatedAt": 1783065543547,
+  "lastResponseAt": 1783065226173,
+  "sessionId": "019f26f5-6f5b-7771-b2e9-4c44bc822c82",
+  "providerState": {
+    "threadId": "019f26f5-6f5b-7771-b2e9-4c44bc822c82",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\03\\rollout-2026-07-03T15-50-46-019f26f5-6f5b-7771-b2e9-4c44bc822c82.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "currentNote": "知识库/项目/职能分工/程序/工具链与管线/Unity 工程控制&工具安装.md",
+  "usage": {
+    "inputTokens": 45694,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43904,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 45694,
+    "percentage": 18,
+    "model": "gpt-5.5"
+  }
+}

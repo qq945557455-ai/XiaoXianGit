@@ -1,0 +1,25 @@
+{
+  "id": "conv-1782903747134-reylgzfqo",
+  "providerId": "codex",
+  "title": "帮我把知识库内容都转成中文",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782903747135,
+  "updatedAt": 1783062952363,
+  "lastResponseAt": 1783062887363,
+  "sessionId": "019f1d58-38d0-7702-bf84-5aa7a757eba1",
+  "providerState": {
+    "threadId": "019f1d58-38d0-7702-bf84-5aa7a757eba1",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\01\\rollout-2026-07-01T19-02-28-019f1d58-38d0-7702-bf84-5aa7a757eba1.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 73902,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73600,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 73902,
+    "percentage": 29,
+    "model": "gpt-5.5"
+  }
+}

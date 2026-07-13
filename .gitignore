@@ -1,0 +1,50 @@
+# SVN
+.svn/
+
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity auto-generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crashlytics generated file
+crashlytics-build.properties
+
+# Unity meta files for folders should be kept, but ignore these:
+# sysinfo.txt
+
+# === Tools / Binaries ===
+Unity_Pro/.tools/
+*.7z.exe
+*.7z
+
+# === OS ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*~

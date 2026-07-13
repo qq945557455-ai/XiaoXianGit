@@ -1,0 +1,25 @@
+{
+  "id": "conv-1783063000198-awz1xiqme",
+  "providerId": "codex",
+  "title": "我要做一个游戏，角色有策划，程序，美术。帮我根据职能角色的不同，分类好对应的文件夹",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783063000199,
+  "updatedAt": 1783065009789,
+  "lastResponseAt": 1783063250457,
+  "sessionId": "019f26d6-4f27-7223-ba24-59aabe9e7c8b",
+  "providerState": {
+    "threadId": "019f26d6-4f27-7223-ba24-59aabe9e7c8b",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\03\\rollout-2026-07-03T15-16-47-019f26d6-4f27-7223-ba24-59aabe9e7c8b.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 42201,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40320,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42201,
+    "percentage": 16,
+    "model": "gpt-5.5"
+  }
+}

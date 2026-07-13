@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783065615934-awrak4ybq",
+  "providerId": "codex",
+  "title": "根据策划，程序，美术的职能分类，在unity内创建好对应的文件夹分类",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783065615934,
+  "updatedAt": 1783066993505,
+  "lastResponseAt": 1783066147550,
+  "sessionId": "019f26fe-2b27-79f0-b811-c3732db332e5",
+  "providerState": {
+    "threadId": "019f26fe-2b27-79f0-b811-c3732db332e5",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\03\\rollout-2026-07-03T16-00-19-019f26fe-2b27-79f0-b811-c3732db332e5.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "currentNote": "知识库/项目/职能分工/程序/玩法实现/程序员工2.md",
+  "usage": {
+    "inputTokens": 60257,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 15232,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60257,
+    "percentage": 23,
+    "model": "gpt-5.5"
+  }
+}

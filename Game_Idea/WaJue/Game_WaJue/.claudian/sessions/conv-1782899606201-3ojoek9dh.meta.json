@@ -1,0 +1,25 @@
+{
+  "id": "conv-1782899606201-3ojoek9dh",
+  "providerId": "codex",
+  "title": "输出当前模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782899606201,
+  "updatedAt": 1782903073724,
+  "lastResponseAt": 1782900002700,
+  "sessionId": "019f1d19-04f2-7013-a785-c4612f6a12ea",
+  "providerState": {
+    "threadId": "019f1d19-04f2-7013-a785-c4612f6a12ea",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\01\\rollout-2026-07-01T17-53-26-019f1d19-04f2-7013-a785-c4612f6a12ea.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 27720,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27008,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 27720,
+    "percentage": 11,
+    "model": "gpt-5.5"
+  }
+}

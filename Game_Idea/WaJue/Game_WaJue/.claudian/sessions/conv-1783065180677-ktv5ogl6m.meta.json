@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783065180677-ktv5ogl6m",
+  "providerId": "codex",
+  "title": "帮我在main里面设置好UI相关的根节点，分辨率为1280*720",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783065180677,
+  "updatedAt": 1783066994045,
+  "lastResponseAt": 1783065555824,
+  "sessionId": "019f26f7-8733-7ac1-b774-3379ccb0fa87",
+  "providerState": {
+    "threadId": "019f26f7-8733-7ac1-b774-3379ccb0fa87",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\03\\rollout-2026-07-03T15-53-04-019f26f7-8733-7ac1-b774-3379ccb0fa87.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "currentNote": "知识库/项目/职能分工/程序/玩法实现/程序员工1.md",
+  "usage": {
+    "inputTokens": 35970,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 9600,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 35970,
+    "percentage": 14,
+    "model": "gpt-5.5"
+  }
+}

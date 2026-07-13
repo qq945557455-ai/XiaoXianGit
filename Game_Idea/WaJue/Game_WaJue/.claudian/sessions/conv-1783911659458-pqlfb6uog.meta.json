@@ -1,0 +1,26 @@
+{
+  "id": "conv-1783911659458-pqlfb6uog",
+  "providerId": "codex",
+  "title": "我想要做一个宫崎骏风格的游戏，游戏类型和内容我还没想好，但是我想先设计主角，先帮我找宫崎骏各动漫的主...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1783911659459,
+  "updatedAt": 1783918499343,
+  "lastResponseAt": 1783915577299,
+  "sessionId": "019f596b-b876-7012-ae9f-367300c46de2",
+  "providerState": {
+    "threadId": "019f596b-b876-7012-ae9f-367300c46de2",
+    "sessionFilePath": "C:\\Users\\94555\\.codex\\sessions\\2026\\07\\13\\rollout-2026-07-13T11-00-59-019f596b-b876-7012-ae9f-367300c46de2.jsonl",
+    "transcriptRootPath": "C:\\Users\\94555\\.codex\\sessions"
+  },
+  "currentNote": "知识库/项目/人员管理/管理者提需求.md",
+  "usage": {
+    "inputTokens": 151799,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 149888,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 151799,
+    "percentage": 59,
+    "model": "gpt-5.5"
+  }
+}
